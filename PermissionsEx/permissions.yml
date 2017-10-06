@@ -6687,7 +6687,7 @@ groups:
         - ch.alias.run4
         - ch.alias.haste0
         - ch.alias.haste1
-  obiwankenobi:
+  obi-wankenobi:
     inheritance:
     - commonherotraits
     options:
